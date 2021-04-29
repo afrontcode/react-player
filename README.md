@@ -1,11 +1,9 @@
-# React Hacker
+# React Player
 
 A simple React starter that's perfect for messing around. Comes with Babel, Emotion CSS in JS, ESlint, and Prettier.
 
 # Use
 
-- `git clone https://github.com/DZuz14/react-hacker.git`
-- `cd react-hacker`
 - `npm i`
 - `npm start`
 

@@ -2,6 +2,7 @@ import React from 'react'
 import { Global, css, jsx } from '@emotion/core'
 import MusicPlayer from './MusicPlayer'
 
+
 /**
  * @function App
  */
@@ -15,7 +16,7 @@ const App = () => (
 const GlobalCSS = css`
   * {
     box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Quicksand', sans-serif;
   }
 
   html,
